@@ -1,0 +1,15 @@
+.venv/
+.runtime/
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+.next/
+out/
+dist/
+docs/
+backend/data/*.db
+backend/data/*.db-*
+backend/data/*.db.pre-*
+backend/knowledge_sources/

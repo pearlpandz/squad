@@ -1,0 +1,12 @@
+fastapi==0.117.1
+uvicorn[standard]==0.36.0
+langchain==0.3.27
+langchain-openai==0.3.33
+pydantic-settings==2.10.1
+python-multipart==0.0.20
+pypdf==6.19.0
+sharepoint-to-text==2.0.1
+langchain-text-splitters==0.3.11
+sentence-transformers==6.1.0
+wordninja==2.0.0
+numpy==2.5.3
